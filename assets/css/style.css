@@ -10,7 +10,7 @@ a {
 }
 /* Ejecto Navbar Scroll */
 .fixed-top.scrolled {
-  background-color: #000000 !important;
+  background-color: #0dcaf0 !important;
   transition: background-color 200ms linear;
 }
 /* Footer */
