@@ -1,10 +1,11 @@
-# Título del Proyecto
+# Viajes Chile - Proyecto FrontEnd
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_La Agencia viajes chile solicita creacion de su landing page..._
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Puedes consegir copia de esté proyecto para uso en local desde terminal git clonando por HTTPS, SSH o descargando el Zip del proyecto.
+Para hacerlo por medio de comandos y desde https debes adicionar la ruta https://github.com/ceomarin/viajes_chile.git al comando respectivo_
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
@@ -61,11 +62,13 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Para este proyecto se utilizaron las siguientes fuentes y herramientas_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+
+* [Bootstrap]( https://getbootstrap.com/docs/5.1/getting-started/introduction/) - Framework front-end
+* [Fontawesome]( https://fontawesome.com/v5.15/how-to-use/on-the-web/referencing-icons/basic-use) – Framework de iconos vectoriales y estilos css
+* [GoogleFonts]( https://fonts.google.com/) – Directorio de fuentes
+
 
 ## Contribuyendo 🖇️
 
@@ -77,7 +80,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Usamos [github](https://docs.github.com/es) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
 ## Autores ✒️
 
@@ -102,4 +105,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ con ❤️ por [ceomarin](https://github.com/ceomarin) 😊
