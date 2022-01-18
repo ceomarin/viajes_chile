@@ -4,7 +4,7 @@ _La Agencia de viajes chile solicita creacion de su landing page..._
 
 ## Comenzando 🚀
 
-_Puedes consegir copiar de esté proyecto para uso en local desde terminal git clonando por HTTPS, SSH o descargando el Zip del proyecto.
+_Puedes conseguir copia de esté proyecto para uso en local desde terminal git clonando por HTTPS, SSH o descargando el Zip del proyecto.
 Para hacerlo por medio de comandos y desde https debes adicionar la ruta https://github.com/ceomarin/viajes_chile.git al comando respectivo_
 
 Mira **Deployment** para conocer como desplegar el proyecto.
@@ -37,6 +37,7 @@ hasta finalizar
 ## Despliegue 📦
 
 _Agrega notas adicionales sobre como hacer deploy_
+Puedes ver el despliegue aquí https://ceomarin.github.io/viajes_chile/
 
 ## Construido con 🛠️
 
