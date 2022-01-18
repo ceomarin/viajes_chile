@@ -51,7 +51,7 @@ _Para este proyecto se utilizaron las siguientes fuentes y herramientas_
 
 ## Versionado 📌
 
-Use [github](https://docs.github.com/es) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/ceomarin).
+Use [github](https://docs.github.com/es) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/ceomarin/viajes_chile/tags).
 
 ## Autores ✒️
 
