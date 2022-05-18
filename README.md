@@ -11,7 +11,7 @@ El desafío consiste en la construcción de un landing page con diseño atractiv
 
 - *Puedes conseguir copia del proyecto para uso en local desde terminal git clonando por HTTPS, SSH o descargando el Zip del proyecto.**
 
-## Despliegue 📦
+## Live Demo 📦
 
 *Agrega notas adicionales sobre como hacer deploy* Puedes ver el despliegue aquí [https://ceomarin.github.io/viajes_chile/](https://ceomarin.github.io/viajes_chile/)
 
@@ -24,7 +24,7 @@ El desafío consiste en la construcción de un landing page con diseño atractiv
 - [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) - Biblioteca de estilos de código abierto version 5.1.3
 - [Google Fonts](https://fonts.google.com/) - Fuente familias Cabin y Lobster
 - [Fontawesome](https://fontawesome.com/) - Usado para Iconos release v5.10.0
-- [jQuery](https://jquery.com/) - Librería JavaScript version min descargada en el proyecto 3.6.0
+- [jQuery](https://jquery.com/) - Librería JavaScript version min integrada en el proyecto 3.6.0
 
 ## Autores ✒️
 
